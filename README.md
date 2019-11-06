@@ -10,3 +10,7 @@ The steps are,
 2.Creating a path and getting file list under that path.
 3.Using for loop, read every file and append into one data frame.
 4.Then concatenate the files 
+
+
+Data Source:<a>https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)</a>
+Pandas functionality: <a>https://pandas.pydata.org/pandas-docs/stable/</a>
